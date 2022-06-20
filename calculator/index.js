@@ -1,21 +1,21 @@
 function addition(num1, num2)
 {
-    return num1 + num2;
+    return (num1 + num2).toString();
 }
 
 function subtraction(num1, num2)
 {
-    return num1 - num2;
+    return (num1 - num2).toString();
 }
 
 function multiplication(num1, num2)
 {
-    return num1 * num2;
+    return (num1 * num2).toString();
 }
 
 function division(num1, num2)
 {
-    return num1 / num2;
+    return (num1 / num2).toString();
 }
 
 
