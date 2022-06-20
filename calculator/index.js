@@ -22,8 +22,8 @@ function division(num1, num2)
 
 
 
-let num1 = prompt("Enter First Number:");    
-let num2 = prompt("Enter Second Number:");
+let num1 = parseInt(prompt("Enter First Number:"));    
+let num2 = parseInt(prompt("Enter Second Number:"));
 let operation = prompt("Select Operation (+ , - , * , / )");
 
 if (operation == '+')
