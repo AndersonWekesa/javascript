@@ -1,5 +1,1 @@
-document.write("Name: Anderson Wekesa")
-document.write("<br>")
-document.write("Height: 168cm")
-document.write("<br>")
-document.write("Country: Kenya")
+alert(" Name: Anderson Wekesa\n Height: 168cm\n Country: Kenya")
